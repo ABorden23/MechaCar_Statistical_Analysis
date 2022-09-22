@@ -59,3 +59,31 @@ Lot 3 is signicantly different from the population mean (with a p-value of .0416
 
 ## Study Design: MechaCar vs Competition.
 
+The biggest impacts to MPG are AWD Capapility, weight and spoiler angle.  These are the 3 variables to consider on the MPG f the MechaCar.
+
+
+### What metric or metrics are you going to test? 
+
+* MPG
+* Average Annual Cost of Ownership
+* Resale Value
+* Engine
+* Drive Package
+* Current Price
+* Saftety Feature Rating
+
+### What is the null hypothesis or alternative hypothesis?
+
+* Null Hypothesis: MechaCar is priced correctly based on its performance of key factors for its genre.
+
+* Alternative Hypothesis: MechaCar is NOT priced correctly based on performance of key factors for its genre.
+
+### What statistical test would you use to test the hypothesis? And why?
+
+Multiple linear regression is used to test the hypthesis. 
+
+### What data is needed to run the statistical test? 
+
+A random sample of n > 30 for MechaCar.
+
+
