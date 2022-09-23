@@ -36,11 +36,11 @@ ANSWER- Multiple R-Squared Value is 0.71
 
 ![total_summary_PSI.png](images/total_summary_PSI.png)
 
-Q1 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
+Question 1 - The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?
 
-A1- In Total the specification are met with variance of 62.29
+ANSWER 1- In Total the specification are met with variance of 62.29
 
-A2- By lots 1 & 2 are written with specifications, however lot 3 has a variance that has exceed expectations.
+ANSWER 2- By lots 1 & 2 are written with specifications, however lot 3 has a variance that has exceed expectations.
 
 ![lot_summary.png](images/lot_summary.png)
 
@@ -51,8 +51,6 @@ Lot 2 is NOT signicantly different from the population mean (with a p-value of .
 ![t_test_lot_2.png](images/t_test_lot_2.png)
 Lot 3 is signicantly different from the population mean (with a p-value of .04168)
 ![t_test_lot_3.png](images/t_test_lot_3.png)
-
-
 
 
 # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
